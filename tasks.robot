@@ -9,7 +9,6 @@ Library             RPA.Robocorp.Vault
 
 
 *** Tasks ***
-#ajout de commentaires
 Insert the sales data for the week and export it as a PDF
     Open the intranet website
     Log in
